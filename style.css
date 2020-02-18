@@ -1,0 +1,100 @@
+.top-panel {
+border: 10px groove orange;
+background-color: #ffff00;
+text-align: left;
+text-transform: uppercase;
+color: orange;
+text-decoration: none;
+}
+
+.top-panel a {
+text-decoration: none;
+}
+h1 {
+font-size: 71px;
+}
+
+.just2{
+	width: 700px;
+}
+
+.just h2{
+border: 7px groove orange;
+padding: 10px;
+margin: 0;
+font-size: 60px;
+background-color: #ffff00;
+text-align: center;
+}
+
+.just h3{
+font-size: 50px;
+margin-left: 30px;
+}
+
+.just p{
+	margin-left: 25px;
+	font-size: larger;
+}
+
+.just img{
+border: 7px dashed #ffff00;
+}
+.navig {
+margin: 0;
+padding: 0;
+background-color: #00bfff;
+width: 275px;
+}
+
+.navig h2 {
+border: 7px groove red;
+padding: 10px;
+margin: 0;
+font-size: 40px;
+}
+
+.navig ul li {
+border: 5px dashed orange;
+background-color: #ffff00;
+color: orange;
+text-align: left;
+text-transform: uppercase;
+
+list-style-type: none;
+padding: 3px;
+font-size: 20px;
+text-align: center;
+}
+
+.skills ul li {
+color: orange;
+text-align: left;
+list-style-type: none;
+padding: 3px;
+font-size: 20px;
+}
+
+.navig ul li a {
+text-decoration: none;
+color: orange;
+}
+
+.contdiv {
+border: 5px dashed orange;
+margin: 10px;
+background-color: #87cefa;
+}
+main {
+display: flex;
+align-items:baseline;
+color: orange;
+}
+
+html {
+background-color: rgba(0,0,255, 0.5);
+}
+a {
+text-decoration: none;
+color: orange;
+}
